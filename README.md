@@ -1,2 +1,2 @@
 # tincomsite
-Site web de tincom(Technology Innovation Entreprise)
+Site web de tincom(Technology Innovation Company)
